@@ -27,4 +27,4 @@ jobs:
         stale-issue-label: 'Cleanup Flagged'
         remove-issue-stale-when-updated: false
         exempt-pr-labels: 'Good First PR,Upstream PR Merged,Stale-b-gone,Test Merged'
-        operations-per-run: 300
+        operations-per-run: 4300
